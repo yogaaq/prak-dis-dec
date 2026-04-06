@@ -1,16 +1,29 @@
-Laporan Praktikum
+# Laporan Praktikum
 
-PRAKTIKUM MINGGU KEDUA
+## Praktikum Minggu Kedua
 
-Nama : Yoga Prima Aditama
+**Nama:** Yoga Prima Aditama  
+**Judul Modul:** Komunikasi Antar Proses pada Sistem Terdistribusi  
 
-Judul Modul : Komunikasi Antar Proses pada Sistem Terdistribusi
+---
 
-Langkah Praktikum
+## Langkah Praktikum
 
-menampilkan proses yang berjalan langkah yang dilakukan :
-menekan tombol Ctrl + Shift + Esc pada keyboard. maka Task Manager akan terbuka
+### 1. Menampilkan proses yang berjalan
 
-Pada tab Processes, terlihat berbagai proses yang sedang berjalan pada komputer seperti:
+Langkah yang dilakukan:
+- Menekan tombol **Ctrl + Shift + Esc** pada keyboard
+- Task Manager akan terbuka
 
--System, Windows Explorer, Google Chrome, Discord, dan lain lain
+Pada tab **Processes**, terlihat berbagai proses yang sedang berjalan pada komputer seperti:
+- System
+- Windows Explorer
+- Google Chrome
+- Discord
+- dan lain-lain
+
+---
+
+## Screenshot
+
+![Screenshot](screenshot.png)

@@ -1,15 +1,15 @@
 # prak-dis-dec
 Laporan Praktikum
 
-#PRAKTIKUM MINGGU KEDUA
+PRAKTIKUM MINGGU KEDUA
 
-#Nama : 
+Nama : 
 Yoga Prima Aditama
 
-#Judul Modul 
+Judul Modul :
 Komunikasi Antar Proses pada Sistem Terdistribusi
 
-#Langkah Praktikum
+Langkah Praktikum
 1. menampilkan proses yang berjalan 
     langkah yang dilakukan :
       1. menekan tombol Ctrl + Shift + Esc pada keyboard. maka Task Manager akan terbuka

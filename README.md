@@ -14,6 +14,7 @@ Komunikasi Antar Proses pada Sistem Terdistribusi
     langkah yang dilakukan :
       1. menekan tombol Ctrl + Shift + Esc pada keyboard. maka Task Manager akan terbuka
       2. Pada tab Processes, terlihat berbagai proses yang sedang berjalan pada komputer seperti:
+
          -System, Windows Explorer, Google Chrome, Discord, dan lain lain
 
 #Screenshot

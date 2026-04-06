@@ -3,7 +3,7 @@ Laporan Praktikum
 
 #PRAKTIKUM MINGGU KEDUA
 
-#Nama 
+#Nama : 
 Yoga Prima Aditama
 
 #Judul Modul 

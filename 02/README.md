@@ -35,7 +35,7 @@ Pada praktikum ini dilakukan pembuatan GraphQL server menggunakan library **Stra
 
 Langkah pertama yang dilakukan adalah membuat workspace dan environment Python. Environment digunakan agar proses pengembangan terisolasi dari konfigurasi Python yang ada pada sistem utama. Setelah environment aktif, dilakukan instalasi paket yang diperlukan menggunakan perintah berikut:
 
-uv pip install 'strawberry-graphql[cli]'
+**`uv pip install 'strawberry-graphql[cli]'`**
 
 Setelah instalasi selesai, dibuat sebuah file `schema.py` yang berfungsi sebagai definisi struktur data serta query yang dapat diakses oleh client. Pada file tersebut didefinisikan tipe data `Book` yang memiliki atribut `title` dan `author`. Selain itu dibuat juga kelas `Query` yang berfungsi untuk menyediakan data buku yang dapat diminta oleh client melalui GraphQL.
 
@@ -43,25 +43,17 @@ Strawberry kemudian digunakan untuk membangun schema GraphQL dengan memanfaatkan
 
 Server dijalankan menggunakan perintah:
 
-strawberry server schema
-
+**`strawberry server schema`**
 
 Ketika server berhasil dijalankan, endpoint GraphQL dapat diakses melalui browser pada alamat:
 
-http://localhost:8000/graphql
-
+**`http://localhost:8000/graphql`**
 
 Pada halaman tersebut terdapat antarmuka GraphQL yang memungkinkan pengguna menuliskan query secara langsung. Query dituliskan pada bagian kiri layar, sedangkan hasil dari query akan ditampilkan pada bagian kanan layar.
 
 Contoh query yang digunakan pada praktikum ini adalah sebagai berikut:
 
-{
-books {
-title
-author
-}
-}
-
+**`{ books { title author } }`**
 
 Query tersebut digunakan untuk mengambil data buku yang berisi informasi judul buku dan nama penulis dari server. Setelah tombol **Run** ditekan, server akan memproses query tersebut dan mengembalikan data dalam bentuk JSON.
 

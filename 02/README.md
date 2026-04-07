@@ -24,6 +24,5 @@ Pada tab **Processes**, terlihat berbagai proses yang sedang berjalan pada kompu
 
 ---
 
-## Screenshot
-
-![Screenshot](screenshot.png)
+## Hasil Screenshot
+![Screenshot](img/screenshot.png)

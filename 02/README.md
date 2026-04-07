@@ -25,4 +25,4 @@ Pada tab **Processes**, terlihat berbagai proses yang sedang berjalan pada kompu
 ---
 
 ## Hasil Screenshot
-![Hasil](img/screenshot.png)
+![Screenshot](img/screenshot.png)
